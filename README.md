@@ -6,9 +6,9 @@
 
 ## 🌐 Live Demo
 
-- **Live Site:**https://realscape-c226c.web.app/
-- **Client Repository:** [GitHub Client Repo URL]  
-- **Server Repository:** [GitHub Server Repo URL]  
+- Live Site: https://realscape-c226c.web.app/
+- Client Repository: [GitHub Client Repo URL]  
+- Server Repository: [GitHub Server Repo URL]  
 
 ## 📜 Admin Credentials
 
