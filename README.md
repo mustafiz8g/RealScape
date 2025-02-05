@@ -8,11 +8,6 @@
 
 - Server Repository: https://github.com/mustafiz8g/Real_Scape_Server
 
-## 📜 Admin Credentials
-
-- **Admin Username:** `admin@example.com`
-- **Admin Password:** `admin123`
-
 ---
 
 ## 📖 Table of Contents
@@ -76,6 +71,24 @@ git clone https://github.com/yourusername/real-estate-server.git
 ```
 
 ### **2️⃣ Install Dependencies**
+ "@firebasegen/default-connector": "file:dataconnect-generated/js/default-connector",
+    "@headlessui/react": "^2.2.0",
+    "@tailwindcss/vite": "^4.0.0",
+    "@tanstack/react-query": "^5.64.2",
+    "axios": "^1.7.9",
+    "firebase": "^11.2.0",
+    "localforage": "^1.10.0",
+    "match-sorter": "^8.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-helmet-async": "^2.0.5",
+    "react-hot-toast": "^2.5.1",
+    "react-icons": "^5.4.0",
+    "react-router-dom": "^7.1.3",
+    "react-spinners": "^0.15.0",
+    "sort-by": "^0.0.2",
+    "sweetalert2": "^11.15.10",
+    "swiper": "^11.2.1"
 #### Frontend:
 ```bash
 cd real-estate-client
