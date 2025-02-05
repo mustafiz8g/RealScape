@@ -1,6 +1,6 @@
 
 
-# 🏡 Real Estate Platform
+# 🏡Real-Scape: a Real Estate Platform
 
 ### An advanced MERN-stack-based real estate marketplace where users can buy, sell, wishlist, and review properties. Agents can manage their listings, and admins have full control over platform operations.
 
@@ -66,8 +66,8 @@
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/real-estate-client.git
-git clone https://github.com/yourusername/real-estate-server.git
+git clone https://github.com/yourusername/real-scape-client.git
+git clone https://github.com/yourusername/real-scape-server.git
 ```
 
 ### **2️⃣ Install Dependencies**
@@ -91,19 +91,19 @@ git clone https://github.com/yourusername/real-estate-server.git
     "swiper": "^11.2.1"
 #### Frontend:
 ```bash
-cd real-estate-client
+cd real-scape-client
 npm install
 ```
 #### Backend:
 ```bash
-cd real-estate-server
+cd real-scape-server
 npm install
 ```
 
 ### **3️⃣ Configure Environment Variables**
 Create a `.env` file in both **client** and **server** directories with the required API keys.
 
-#### **Frontend (`real-estate-client/.env`)**
+#### **Frontend (`real-scape-client/.env`)**
 ```plaintext
 VITE_FIREBASE_API_KEY=your_firebase_api_key
 VITE_FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
@@ -114,7 +114,7 @@ VITE_FIREBASE_APP_ID=your_firebase_app_id
 VITE_BACKEND_URL=http://localhost:5000
 ```
 
-#### **Backend (`real-estate-server/.env`)**
+#### **Backend (`real-scape-server/.env`)**
 ```plaintext
 MONGO_URI=your_mongodb_connection_uri
 JWT_SECRET=your_jwt_secret
