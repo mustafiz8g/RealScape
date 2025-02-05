@@ -179,16 +179,11 @@ _Add screenshots here to showcase UI and features._
 ## 🤝 Contributors
 
 👤 **Your Name**  
-📧 Email: [your email]  
-🔗 GitHub: [your GitHub profile]  
-🔗 LinkedIn: [your LinkedIn profile]  
+📧 Email: mustafizur8g@gamil.com
+🔗 GitHub: 
+🔗 LinkedIn: 
 
 ---
 
-## 📝 License
-
-This project is licensed under the **MIT License**.
-
----
 
 
