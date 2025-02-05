@@ -1,14 +1,12 @@
 
-```md
+
 # 🏡 Real Estate Platform
 
 ### An advanced MERN-stack-based real estate marketplace where users can buy, sell, wishlist, and review properties. Agents can manage their listings, and admins have full control over platform operations.
 
-## 🌐 Live Demo
+## 🌐 Live Demo https://realscape-c226c.web.app/
 
-- Live Site: https://realscape-c226c.web.app/
-- Client Repository: [GitHub Client Repo URL]  
-- Server Repository: [GitHub Server Repo URL]  
+- Server Repository: https://github.com/mustafiz8g/Real_Scape_Server
 
 ## 📜 Admin Credentials
 
@@ -180,12 +178,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-### ✅ How to Ensure Correct Formatting on GitHub:
-- Copy and **paste the text** directly into `README.md`.
-- Ensure your `.md` file is named exactly **README.md**.
-- Use **GitHub preview mode** before committing.
 
-🚀 Now, when you paste this into GitHub, it will display **perfectly** with proper bullet points, headings, and tables. 🚀
-```  
-
-This is **100% GitHub-ready**! Try it out, and let me know if you need any modifications. 🎯
